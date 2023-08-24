@@ -19,4 +19,4 @@ Objetivos: Desenvolver o melhor modelo preditivo utilizando séries temporais e 
 
 ## Fontes
 
-As informações e abordagens utilizadas neste projeto são exclusivas e não foram encontradas em nenhum outro lugar até a data atual (24/08/2023). A pesquisa e desenvolvimento dos gráficos, bem como a implementação de funções complexas, incluindo transformações de datas, contaram com o auxílio e orientação fornecidos por meio do uso da plataforma OpenAI.
+As informações e abordagens utilizadas neste projeto são exclusivas e não foram encontradas em nenhum outro lugar até a data atual (24/08/2023). O desenvolvimento dos gráficos, bem como a implementação de funções que inclui transformações de datas, contaram com o auxílio e orientação fornecidos por meio do uso da plataforma OpenAI.
