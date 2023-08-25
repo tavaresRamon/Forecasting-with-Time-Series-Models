@@ -19,4 +19,34 @@ Objetivos: Desenvolver o melhor modelo preditivo utilizando séries temporais e 
 
 ## Fontes
 
-As informações e abordagens utilizadas neste projeto são exclusivas e não foram encontradas em nenhum outro lugar até a data atual (24/08/2023). O desenvolvimento dos gráficos mais complexos, bem como a implementação de funções que incluem transformações de datas e a manipulações de pacotes específicos para transformações de dados, contaram com o auxílio e orientação fornecidos por meio do uso da plataforma OpenAI.
+Banco de dados:
+Google Trends
+
+pmdarima instalação
+https://alkaline-ml.com/pmdarima/tips_and_tricks.html
+
+Modelo Ar
+https://www.statsmodels.org/stable/generated/statsmodels.tsa.ar_model.AutoReg.html
+
+Modelo MA
+https://en.wikipedia.org/wiki/Autoregressive_model
+https://en.wikipedia.org/wiki/Autoregressive_model
+
+Modelo ARIMA
+https://www.statsmodels.org/stable/generated/statsmodels.tsa.arima.model.ARIMA.html
+https://en.wikipedia.org/wiki/Moving-average_model
+
+Modelo Sarima
+https://www.statsmodels.org/stable/generated/statsmodels.tsa.statespace.sarimax.SARIMAX.html
+
+Modelo AutoArima:
+https://alkaline-ml.com/pmdarima/tips_and_tricks.html
+https://en.wikipedia.org/wiki/Autoregressive_model
+
+Modelo Arma:
+https://www.statsmodels.org/stable/generated/statsmodels.tsa.arima.model.ARIMA.html
+https://en.wikipedia.org/wiki/Moving-average_model
+
+Explicação Prática dos Métodos de Previsão de Séries Temporais:
+https://cprosenjit.medium.com/10-time-series-forecasting-methods-we-should-know-291037d2e285
+
