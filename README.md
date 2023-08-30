@@ -1,6 +1,6 @@
 # Séries Temporais e Aprendizagem de Máquina
 
-## Previsão em Séries Temporais com Machine Learning para Dados de Contagem
+## Previsão em Séries Temporais com Machine Learning
 
 Neste projeto, foi explorado alguns modelos de previsão em séries temporais utilizando técnicas de aprendizagem de máquina, focalizando em dados de contagem extraídos do Google Trends.
 
