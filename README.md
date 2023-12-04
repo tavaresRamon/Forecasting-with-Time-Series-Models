@@ -1,8 +1,8 @@
 # Séries Temporais e Aprendizagem de Máquina
 
-## Previsão em Séries Temporais com Machine Learning
+## Previsão em Séries Temporais
 
-Neste projeto, foi explorado alguns modelos de previsão em séries temporais utilizando técnicas de aprendizagem de máquina, focalizando em dados de contagem extraídos do Google Trends.
+Neste projeto, foi explorado alguns modelos de previsão em séries temporais, focalizando em dados de contagem extraídos do Google Trends.
 
 ### 1° Banco: Univariado
 
